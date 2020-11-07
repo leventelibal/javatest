@@ -4,5 +4,8 @@ public class Mything
     {
 
         System.out.println("Hello test");
+        System.out.println("Hello Levent");
+
+
     }
 }
