@@ -13,6 +13,10 @@ public class variable {
         boolean e = false;
 
         String f = "Grant";
+        String g = "is";
+        String h = "awsome";
+
+        System.out.println(f+" "+g+" "+h);
 
 
         
