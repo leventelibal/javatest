@@ -1,4 +1,5 @@
 public class reversestring {
+    public static void main(String[] args){}
     public String reverse(String s) {
 
         String result = "";
