@@ -1,6 +1,8 @@
 public class multiply {
 
     public static void main(String [] argsStrings) {
+        
+    }
 
         public int sum(int n) {
             int sum = 0;
