@@ -1,4 +1,5 @@
 public class linearshearch {
+    public static void main(String []args) {}
     public int search(Integer n, Integer[] list) {
 
     int index = -1;
@@ -9,6 +10,6 @@ public class linearshearch {
             break;
         }
     }
-    return index;
-}
+    return index; 
+    }
 }
