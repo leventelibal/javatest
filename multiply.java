@@ -11,6 +11,7 @@ public class multiply {
                     sum += i;
                 }
             }
+            System.out.println (sum);
             return sum;
         
     }
